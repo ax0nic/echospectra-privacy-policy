@@ -8,19 +8,33 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Echospectra unless otherwise defined in this Privacy Policy.
 
+**Customer Data Confidentiality**
+
+At Ax0n Intelligence Company, the confidentiality of your data is paramount. We are committed to ensuring the highest level of protection for your personal information and maintaining its confidentiality.
+
+*Confidentiality Measures:* We implement rigorous measures and advanced security protocols to safeguard the confidentiality of the personal information you provide. These measures are designed to prevent unauthorized access, disclosure, alteration, and destruction of your information.
+
+*Use of Information:* Your personal information will be treated as confidential. It will only be used in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. Ax0n Intelligence Company will take reasonable steps to ensure that your data is relevant to its intended use, accurate, complete, and current.
+
+*Employee Access:* Access to your personal information is restricted to employees, contractors, and agents of Ax0n Intelligence Company who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+*Disclosure to Third Parties:* We will disclose your personal information to third parties only in the ways that are described in this Privacy Policy. Third-party service providers with whom we share your personal information are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
+
+*Data Breach Notification:* In the unlikely event of a data breach that affects the confidentiality, integrity, or availability of your personal information, Ax0n Intelligence Company will act promptly to mitigate the breach's effects. We will notify you and any applicable regulator of a breach where we are legally required to do so.
+
 **Information Collection and Use**
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to email, name, phone number. The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third-party service providers used by the app
+Links to the privacy policy of third-party service providers used by the app:
 
 * [Mapbox](https://www.mapbox.com/legal/privacy)
 
 **Log Data**
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone or browser called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**
 
@@ -41,7 +55,7 @@ We want to inform users of this Service that these third parties have access to 
 
 **Security**
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We value your trust in providing us your Data and Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 **Links to Other Sites**
 
