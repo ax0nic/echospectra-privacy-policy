@@ -1,6 +1,6 @@
 # Echospectra — Terms of Service & Privacy Policy (Plain Language)
 
-**Last updated:** {{August 28, 2025}}
+**Last updated:** August 28, 2025
 
 > This combined Terms & Privacy is written in plain language. It explains what you can expect from Echospectra and what we expect from you. If anything here conflicts with a signed order form or master agreement, the signed document controls.
 
@@ -83,13 +83,13 @@ If you retain us to help analyze your data or prepare materials:
 
 ## Contact
 
-**Company:** {{Ax0n Intelligence Company}}
+**Company:** Ax0n Intelligence Company
 
-**Address:** {{720 S Hwy 377 Ste 140, Box 293 Roanoke, TX 76262, USA}}
+**Address:** 720 S Hwy 377 Ste 140, Box 293 Roanoke, TX 76262, USA
 
-**Email:** {{[legal@echospectra.com](mailto:legal@echospectra.com)}}
+**Email:** [legal@echospectra.com](mailto:legal@echospectra.com)
 
-**Security incidents & privacy requests:** {{[security@echospectra.com](mailto:security@echospectra.com)}}
+**Security incidents & privacy requests:** [security@echospectra.com](mailto:security@echospectra.com)
 
 ---
 
