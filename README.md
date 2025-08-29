@@ -1,80 +1,109 @@
-**Privacy Policy**
+# Echospectra — Terms of Service & Privacy Policy (Plain Language)
 
-Ax0n Intelligence Company built the Echospectra app as a Commercial app. This SERVICE is provided by Ax0n Intelligence Company and is intended for use as is.
+**Last updated:** {{August 28, 2025}}
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+> This combined Terms & Privacy is written in plain language. It explains what you can expect from Echospectra and what we expect from you. If anything here conflicts with a signed order form or master agreement, the signed document controls.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+---
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Echospectra unless otherwise defined in this Privacy Policy.
+## 1) Who owns the data
 
-**Customer Data Confidentiality**
+* **You own your case data** ("Customer Content"): photos, videos, maps, notes, logs, indicators, and exports you create or upload in Echospectra.
+* We do **not** sell Customer Content or use it for advertising.
 
-At Ax0n Intelligence Company, the confidentiality of your data is paramount. We are committed to ensuring the highest level of protection for your personal information and maintaining its confidentiality.
+## 2) Our limited license to operate and improve the service
 
-*Confidentiality Measures:* We implement rigorous measures and advanced security protocols to safeguard the confidentiality of the personal information you provide. These measures are designed to prevent unauthorized access, disclosure, alteration, and destruction of your information.
+You grant Echospectra a **limited license** to host, process, back up, transmit, and secure Customer Content so the service works for you. You also allow us to use **de‑identified and aggregated** information derived from Customer Content to improve Echospectra, including:
 
-*Use of Information:* Your personal information will be treated as confidential. It will only be used in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. Ax0n Intelligence Company will take reasonable steps to ensure that your data is relevant to its intended use, accurate, complete, and current.
+* training and testing **internal** models that detect indicators (e.g., spalling) from images and field data;
+* validating and improving **progression and dynamic fire‑behavior simulations**; and
+* enhancing reliability, accuracy, and safety of our features.
 
-*Employee Access:* Access to your personal information is restricted to employees, contractors, and agents of Ax0n Intelligence Company who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+**What “de‑identified and aggregated” means:** we remove or transform direct identifiers (e.g., names, case IDs, emails, exact addresses) and combine data across many customers so it cannot reasonably be tied back to a person, incident, or customer. We apply technical and organizational safeguards to prevent re‑identification.
 
-*Disclosure to Third Parties:* We will disclose your personal information to third parties only in the ways that are described in this Privacy Policy. Third-party service providers with whom we share your personal information are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
+**No cross‑matter advantage:** we will **not** use your case data to help an opposing party in the same matter, and we do not disclose insights specific to your case.
 
-*Data Breach Notification:* In the unlikely event of a data breach that affects the confidentiality, integrity, or availability of your personal information, Ax0n Intelligence Company will act promptly to mitigate the breach's effects. We will notify you and any applicable regulator of a breach where we are legally required to do so.
+**No third‑party model training:** we do **not** use Customer Content to train third‑party models.
 
-**Information Collection and Use**
+**Derived/Model artifacts:** models, analytics, and statistics we create from de‑identified/aggregated data are **Echospectra’s technology**. We will never expose them in a way that reveals your confidential content.
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to email, name, phone number. The information that we request will be retained by us and used as described in this privacy policy.
+## 3) Processors and sharing (Option B)
 
-The app does use third-party services that may collect information used to identify you.
+* We do not disclose Customer Content to third parties **except** vetted **service providers** (processors) who help us run the service—e.g., cloud hosting, monitoring, secure storage, email delivery, and customer support tools. Processors act only on our instructions, must protect the data, and cannot use it for their own purposes.
+* **Payments:** handled by **Stripe**. We do not store full card numbers; Stripe’s processing is governed by Stripe’s terms and privacy policy.
+* **Legal requests:** we require valid legal process before disclosing any data and will notify you beforehand unless the law prohibits it.
+* We never sell data and never share it for advertising.
 
-Links to the privacy policy of third-party service providers used by the app:
+## 4) Professional Services and conflicts
 
-* [Mapbox](https://www.mapbox.com/legal/privacy)
+If you retain us to help analyze your data or prepare materials:
 
-**Log Data**
+* We follow a strict **conflict protocol**: ethical walls, segregated workspaces, role‑based access, and audit logs.
+* **No cross‑matter knowledge transfer.** If a wall cannot fully protect integrity, we may decline/withdraw from the engagement.
+* You own your case data; we retain ownership of our background IP and tools. You receive a license to any templates/tooling we provide to you.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone or browser called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+## 5) Security
 
-**Cookies**
+* Encryption **in transit and at rest**, least‑privilege access, audit logging, vulnerability management, backups/DR, and incident response with notice where permitted.
+* We follow **SOC 2 Type II** best practices; certification is **in progress**.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## 6) Acceptable use
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+* Don’t upload unlawful content, malware, or others’ confidential data without authorization. Don’t interfere with the service or attempt to access others’ data.
 
-**Service Providers**
+## 7) Usage data (no non‑essential toggle)
 
-We may employ third-party companies and individuals due to the following reasons:
+* We collect limited **usage and diagnostics** (e.g., performance, crash logs, feature usage counts) to operate, secure, and improve Echospectra. We do **not** currently offer a separate opt‑out toggle for non‑essential telemetry.
 
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.
+## 8) Your choices and controls
 
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+* **Access & export:** you can export your case data.
+* **Deletion:** upon request or account closure, we delete active copies within **30 days** and purge backups on a rolling **90‑day** schedule.
+* **Data residency:** if region options are offered, we’ll honor your selection.
 
-**Security**
+## 9) Availability & support
 
-We value your trust in providing us your Data and Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+* We strive for high uptime and may schedule maintenance. Support channels and response targets are published in our help materials.
 
-**Links to Other Sites**
+## 10) Warranties, liability, and legal terms (short form)
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+* The service is provided **“as is”** to the extent allowed by law. We do not guarantee legal outcomes; you are responsible for investigative conclusions and filings.
+* Our total liability is limited to the greater of **fees paid in the past 12 months** or **\$10,000**, excluding willful misconduct or breach of confidentiality.
+* Governing law and venue are set in your order form or our standard terms.
 
-**Children’s Privacy**
+## 11) Children
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+* Echospectra is not directed to children and is intended for professional use.
 
-**Account Deletion**
+## 12) Changes
 
-To delete your account, please submit a request through the contact form on our website at https://www.echospectra.com/#contact-us. A manager will then contact you to verify your identity before the account is permanently deleted.
+* If we make material changes, we’ll post an update and, where required, provide advance notice.
 
-**Changes to This Privacy Policy**
+---
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+## Contact
 
-This policy is effective as of 2023-07-21
+**Company:** {{Ax0n Intelligence Company}}
 
-**Contact Us**
+**Address:** {{720 S Hwy 377 Ste 140, Box 293 Roanoke, TX 76262, USA}}
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <support@echospectra.com>.
+**Email:** {{[legal@echospectra.com](mailto:legal@echospectra.com)}}
+
+**Security incidents & privacy requests:** {{[security@echospectra.com](mailto:security@echospectra.com)}}
+
+---
+
+# Appendix — Plain‑English FAQs
+
+**Can Echospectra use our indicator data to train internal models?**
+Yes—**only** in **de‑identified and aggregated** form, and only to improve Echospectra. We do not train third‑party models with your data and will not use your case information to benefit an opposing party.
+
+**Who sees our data?**
+Only your authorized users and Echospectra personnel with a legitimate need (support/security), under role‑based access and audit logs.
+
+**What if we want stricter controls for a specific matter?**
+Contact us. We can add case‑level restrictions (e.g., disable improvement uses for that matter, tighten access scopes, or create a segregated workspace) in a written addendum.
+
+**Do you sell data or share it for advertising?**
+No.
+
