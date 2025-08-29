@@ -1,4 +1,4 @@
-# Echospectra — Terms of Service & Privacy Policy (Plain Language)
+# Echospectra — Terms of Service & Privacy Policy
 
 **Last updated:** August 28, 2025
 
@@ -27,7 +27,7 @@ You grant Echospectra a **limited license** to host, process, back up, transmit,
 
 **Derived/Model artifacts:** models, analytics, and statistics we create from de‑identified/aggregated data are **Echospectra’s technology**. We will never expose them in a way that reveals your confidential content.
 
-## 3) Processors and sharing (Option B)
+## 3) Processors and sharing
 
 * We do not disclose Customer Content to third parties **except** vetted **service providers** (processors) who help us run the service—e.g., cloud hosting, monitoring, secure storage, email delivery, and customer support tools. Processors act only on our instructions, must protect the data, and cannot use it for their own purposes.
 * **Payments:** handled by **Stripe**. We do not store full card numbers; Stripe’s processing is governed by Stripe’s terms and privacy policy.
@@ -51,7 +51,7 @@ If you retain us to help analyze your data or prepare materials:
 
 * Don’t upload unlawful content, malware, or others’ confidential data without authorization. Don’t interfere with the service or attempt to access others’ data.
 
-## 7) Usage data (no non‑essential toggle)
+## 7) Usage data
 
 * We collect limited **usage and diagnostics** (e.g., performance, crash logs, feature usage counts) to operate, secure, and improve Echospectra. We do **not** currently offer a separate opt‑out toggle for non‑essential telemetry.
 
