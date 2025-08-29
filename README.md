@@ -65,7 +65,7 @@ If you retain us to help analyze your data or prepare materials:
 
 * We strive for high uptime and may schedule maintenance. Support channels and response targets are published in our help materials.
 
-## 10) Warranties, liability, and legal terms (short form)
+## 10) Warranties, liability, and legal terms
 
 * The service is provided **“as is”** to the extent allowed by law. We do not guarantee legal outcomes; you are responsible for investigative conclusions and filings.
 * Our total liability is limited to the greater of **fees paid in the past 12 months** or **\$10,000**, excluding willful misconduct or breach of confidentiality.
